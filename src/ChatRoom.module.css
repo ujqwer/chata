@@ -1,0 +1,8 @@
+/* src/ChatRoom.module.css */
+.chat-container {
+    width: 300px;
+    height: 400px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    overflow-y: scroll;
+}
